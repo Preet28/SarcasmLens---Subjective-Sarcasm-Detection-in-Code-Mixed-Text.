@@ -9,12 +9,6 @@ It includes three key components:
 2. Dataset – Code-mixed Hindi-English text used for training and testing.  
 3. Data - Web Scraping for Validation – Reddit scraping scripts for collecting real-world Hinglish posts to validate the trained models.
 
----
-
-## Project Structure
-
----
-
 ## Baseline Model
 The baseline models are implemented using classical machine learning with TF-IDF embeddings.  
 Models trained:
