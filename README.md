@@ -40,8 +40,8 @@ The best-performing model is stored as `best_baseline_model.pkl`.
 ## Dataset Information
 The dataset comprises Hindi-English (Hinglish) tweets annotated for sarcasm.  
 The data includes:
-- Cleaned tweet text (`unique_tweets.csv`)  
-- Test data (`test.csv`)  
+- Cleaned tweet text (`unique_tweets.csv`)  - Train/test
+- Validation Test data (`test.csv`)  
 - Duplicate removal and preprocessing scripts (`remove_duplicate_tweets.ipynb`)
 
 ### Preprocessing Steps
@@ -54,14 +54,9 @@ The data includes:
 ## Reddit Web Scraping for Validation
 The folder `Data - web scraping for validation` includes code for collecting real-world code-mixed Hinglish content from Reddit.  
 Subreddits used:
-- r/India  
 - r/IndianDankMemes  
 - r/desiHumor  
 - r/BollywoodMemes  
 
-### Output Files
-- `reddit_code_mixed_posts.csv` – raw text  
-- `reddit_code_mixed_cleaned.csv` – preprocessed text  
-- `reddit_code_mixed_labeled.csv` – sarcasm predictions using the trained model  
 
 ---
