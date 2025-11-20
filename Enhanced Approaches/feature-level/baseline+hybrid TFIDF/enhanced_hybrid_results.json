@@ -1,0 +1,22 @@
+[
+  {
+    "model": "LogisticRegression",
+    "accuracy": 0.9674582233948988,
+    "weighted_f1": 0.9674675726396108
+  },
+  {
+    "model": "LinearSVM",
+    "accuracy": 0.9709762532981531,
+    "weighted_f1": 0.9709762532981531
+  },
+  {
+    "model": "RBFSVM",
+    "accuracy": 0.9722955145118733,
+    "weighted_f1": 0.972250674721444
+  },
+  {
+    "model": "RandomForest",
+    "accuracy": 0.9780123131046614,
+    "weighted_f1": 0.977982060240826
+  }
+]
