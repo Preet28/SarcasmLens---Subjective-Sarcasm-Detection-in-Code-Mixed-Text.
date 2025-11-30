@@ -32,6 +32,8 @@ The best-performing model is stored as `best_baseline_model.pkl`.
 ---
 
 ## Dataset Information
+Dataset Link: https://www.kaggle.com/datasets/aniruddha202411065/nlp-dataset/settings
+
 The dataset comprises Hindi-English (Hinglish) tweets annotated for sarcasm.  
 The data includes:
 - Cleaned tweet text (`unique_tweets.csv`)  - Train/test
