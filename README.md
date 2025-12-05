@@ -2,7 +2,7 @@
 
 ## Overview
 SarcasmLens is a machine learning-based system designed to detect sarcasm in code-mixed (Hindi-English) social media text.  
-This project focuses on identifying linguistic cues and stylistic markers that distinguish sarcastic expressions from literal ones in informal, multilingual environments.
+This project ( by Preet Shah - 202411053, Rishi Rokariya - 202411059, Aniruddha Shinde - 202411065 ) focuses on identifying linguistic cues and stylistic markers that distinguish sarcastic expressions from literal ones in informal, multilingual environments.
 
 It includes three key components:
 1. Baseline System – Classical models using TF-IDF features.  
